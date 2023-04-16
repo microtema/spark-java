@@ -149,4 +149,4 @@ try (var jsc = new JavaSparkContext(spark.sparkContext())) {
 
 | Term | Description                   |
 |------|-------------------------------|
-| RDD  | resilient distributed dataset |
+| RDD  | Resilient Distributed Dataset |
